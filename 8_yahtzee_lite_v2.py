@@ -72,7 +72,7 @@ def result_check(_roll):
         return ["Three of a kind", 10]
 
     else:
-        return "Better luck next time"
+        return ["Better luck next time", 0]
 
 
 # Main Routine
